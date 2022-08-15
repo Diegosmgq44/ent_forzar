@@ -2,8 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 version '2.7.1'
-description 'https://github.com/thelindat/linden_outlawalert'
-versioncheck 'https://raw.githubusercontent.com/thelindat/linden_outlawalert/master/fxmanifest.lua'
+description 'https://github.com/Diegosmgq44/ent_forzar'
 
 client_scripts {
     '@es_extended/locale.lua',
