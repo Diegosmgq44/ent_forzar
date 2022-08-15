@@ -16,7 +16,7 @@ as well as a mark on the gps where with the Y key you can mark it on your map.
 # Instructions
 
 Download the script from my github directly and copy it to the resources folder.
-In the server.cfg file start it as diegosmgq44_outlawalerts (start diegosmgq44_outlawalerts)
+In the server.cfg file start it as ent_forzar(start ent_forzar)
 
 # Credits:
 
