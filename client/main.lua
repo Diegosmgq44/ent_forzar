@@ -104,7 +104,6 @@ Citizen.CreateThread(function()
 		if currentStreetName then lastStreet = currentStreetName end
 		local currentStreetHash = GetStreetNameAtCoord(playerCoords.x, playerCoords.y, playerCoords.z)
 		currentStreetName = GetStreetNameFromHashKey(currentStreetHash)
-		if currentStreetName ~= lastStreet or not speedlimit then speedlimit = speedlimitValues[currentStreetName] end
 		nearbyPeds = GetAllPeds()
 		Citizen.Wait(500)
 	end
