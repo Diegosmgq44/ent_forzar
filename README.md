@@ -9,7 +9,7 @@ Sistema de Entornos y Forzar un vehículo con Interfaz Gráfica incluida complet
 
 # Description
 
-This script includes the function of two commands. One is /environment to send police notices and the other is /force. 
+This script includes the function of two commands. One is /entorno to send police notices and the other is /forzar. 
 For when you steal a car that the model, color and license plate of the stolen vehicle arrives to the police, 
 as well as a mark on the gps where with the Y key you can mark it on your map.
 
