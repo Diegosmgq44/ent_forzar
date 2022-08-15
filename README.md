@@ -1,2 +1,20 @@
-# Police-Alerts-Entorno-y-Forzar-
+# Police Alerts Entorno y Forzar
+
 Sistema de Entornos y Forzar un vehículo con Interfaz Gráfica incluida completamente funcional
+
+# Description
+
+This script includes the function of two commands. One is /environment to send police notices and the other is /force. 
+For when you steal a car that the model, color and license plate of the stolen vehicle arrives to the police, 
+as well as a mark on the gps where with the Y key you can mark it on your map.
+
+# Instructions
+
+Download the script from my github directly and copy it to the resources folder.
+In the server.cfg file start it as diegosmgq44_outlawalerts (start diegosmgq44_outlawalerts)
+
+# Credits:
+
+  thelindat for linden_outlawalert
+  Link: https://forum.cfx.re/t/esx-outlawalert-wildfire-alerts-and-hypaste-mdt-integration/2067483
+  GitHub: https://github.com/thelindat/linden_outlawalert
