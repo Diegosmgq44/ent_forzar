@@ -20,6 +20,8 @@ In the server.cfg file start it as diegosmgq44_outlawalerts (start diegosmgq44_o
 
 # Credits:
 
-  thelindat for linden_outlawalert
-  Link: https://forum.cfx.re/t/esx-outlawalert-wildfire-alerts-and-hypaste-mdt-integration/2067483
+  thelindat for linden_outlawalert<br>
+  
+  Link: https://forum.cfx.re/t/esx-outlawalert-wildfire-alerts-and-hypaste-mdt-integration/2067483 <br>
+  
   GitHub: https://github.com/thelindat/linden_outlawalert
