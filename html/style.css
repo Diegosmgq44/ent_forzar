@@ -141,7 +141,7 @@
 .officer-down {
     box-shadow: -3px 0px 0px 0px rgba(47, 110, 182, 0.9) inset;
     background: rgba(26, 68, 116, 0.9);
-    animation: myfirst 5s linear 0s infinite alternate;
+    animation: myfirst 5s linear 0s infinite alternate; 
 }
 
 @keyframes myfirst {
