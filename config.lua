@@ -9,7 +9,7 @@ Citizen.CreateThread(function()
         return
     end
     while not firstname do
-        Citizen.Wait(10)
+        Citizen.Wait(100)
     end
 
     if notLoaded then
