@@ -1,5 +1,5 @@
 Locales['da'] = {
-    ['unknown_caller'] = "Opkalder Ukendt",
+    ['unknown_caller'] = "Opkalder Ukendtz",
     ['caller_unknown'] = "Ukendt",
     ['caller_local'] = "Lokal Borger",
     ['call_from'] = "Opkald fra ",
