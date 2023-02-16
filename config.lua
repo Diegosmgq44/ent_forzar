@@ -2,8 +2,9 @@ Config = {}
 Config.Enable = {}
 Config.Timer = {}
 
-Config.Locale = 'en'
 
+Config.Locale = 'en'
+ 
 Citizen.CreateThread(function()
     if not GetPlayerPed(-1) then
         return
