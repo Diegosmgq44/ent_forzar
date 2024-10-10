@@ -1,4 +1,5 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Diegosmgq44_ent_forzar)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
 
