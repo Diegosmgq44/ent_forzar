@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Diegosmgq44_ent_forzar&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Diegosmgq44_ent_forzar)
+
 # Police Alerts Entorno y Forzar
 
 Police Alerts System with Graphic Interface included fully functional
